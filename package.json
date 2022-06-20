@@ -1,0 +1,14 @@
+{
+    "name": "x509-certificate-proxy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "00845212958",
+    "license": "ISC",
+    "dependencies": {
+        "http-proxy": "^1.18.1"
+    }
+}
